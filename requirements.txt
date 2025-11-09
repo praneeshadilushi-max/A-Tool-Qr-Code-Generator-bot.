@@ -1,0 +1,5 @@
+pytelegrambotapi
+asyncpg
+qrcode
+pillow
+sqlite3
